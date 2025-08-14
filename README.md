@@ -1,6 +1,6 @@
 Este proyecto fue creado por carlosperezlab (GIT HUB).
-!!!Agrega los nombres de tus amigos y facilita el sorte del amigo secreto para tus fiestas!!!
-Puedes agregar todos los amigos que desees, la aplicaciòn se encargar'a de sortear aleatoriamente los nombres.
+!!!Agrega los nombres de tus amigos y facilita el sorteo del amigo secreto para tus fiestas!!!
+Puedes agregar todos los amigos que desees, la aplicaciòn se encargará de sortear aleatoriamente los nombres.
 
 ¿Cóomo usar la aplicación?
   1. Ingresa el nombre de amigo en el cuaro de texto "Escribe un nombre"
